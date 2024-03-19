@@ -10,6 +10,6 @@ lombok = { module = "org.projectlombok:lombok", version = "1.18.24" }
 junitBom = { module = "org.junit:junit-bom", version = "5.8.2" }
 retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
 retrofitJackson = { module = "com.squareup.retrofit2:converter-jackson", version.ref = "retrofit" }
-retrofitRxJava2 = { module = "com.squareup.retrofit2:adapter-rxjava2", version.ref = "retrofit" }
+retrofitRxJava3 = { module = "com.squareup.retrofit2:adapter-rxjava3", version.ref = "retrofit" }
 retrofitMock = { module = "com.squareup.retrofit2:retrofit-mock", version.ref = "retrofit" }
 jtokkit = { module = "com.knuddels:jtokkit", version = "0.5.1" }

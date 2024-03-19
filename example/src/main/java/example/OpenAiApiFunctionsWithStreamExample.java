@@ -5,7 +5,7 @@ import com.theokanning.openai.service.FunctionExecutor;
 import com.theokanning.openai.service.OpenAiService;
 import example.OpenAiApiFunctionsExample.Weather;
 import example.OpenAiApiFunctionsExample.WeatherResponse;
-import io.reactivex.Flowable;
+import io.reactivex.rxjava3.core.Flowable;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicBoolean;

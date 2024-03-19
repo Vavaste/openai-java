@@ -41,7 +41,7 @@ import com.theokanning.openai.runs.RunStep;
 import com.theokanning.openai.runs.SubmitToolOutputsRequest;
 import com.theokanning.openai.threads.Thread;
 import com.theokanning.openai.threads.ThreadRequest;
-import io.reactivex.Single;
+import io.reactivex.rxjava3.core.Single;
 import okhttp3.MultipartBody;
 import okhttp3.RequestBody;
 import okhttp3.ResponseBody;

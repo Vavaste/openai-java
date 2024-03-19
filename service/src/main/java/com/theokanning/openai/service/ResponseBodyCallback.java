@@ -10,7 +10,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.theokanning.openai.OpenAiError;
 import com.theokanning.openai.OpenAiHttpException;
 
-import io.reactivex.FlowableEmitter;
+import io.reactivex.rxjava3.core.FlowableEmitter;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;
